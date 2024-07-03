@@ -1,56 +1,31 @@
-
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("./SF_Pro_100.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+}
 
 @font-face {
-    font-family: 'SF Pro Display';
-    src: url('./SFPRODISPLAYBLACKITALIC.OTF') format('truetype');
-    font-weight: 900;
-    font-style: italic;
-  }
-  @font-face {
-    font-family: 'SF Pro Display';
-    src: url('./SFPRODISPLAYBOLD.OTF') format('truetype');
-    font-weight: 700;
-    font-style: normal;
-  }
-  @font-face {
-    font-family: 'SF Pro Display';
-    src: url('./SFPRODISPLAYHEAVYITALIC.OTF') format('truetype');
-    font-weight: 800;
-    font-style: italic;
-  }
-  @font-face {
-    font-family: 'SF Pro Display';
-    src: url('./SFPRODISPLAYLIGHTITALIC.OTF') format('truetype');
-    font-weight: 400;
-    font-style: italic;
-  }
-  @font-face {
-    font-family: 'SF Pro Display';
-    src: url('./SFPRODISPLAYMEDIUM.OTF') format('truetype');
-    font-weight: 500;
-    font-style: normal;
-  }
-  @font-face {
-    font-family: 'SF Pro Display';
-    src: url('./SFPRODISPLAYREGULAR.OTF') format('truetype');
-    font-weight: 400;
-    font-style: normal;
-  }
-  @font-face {
-    font-family: 'SF Pro Display';
-    src: url('./SFPRODISPLAYSEMIBOLDITALIC.OTF') format('truetype');
-    font-weight: 600;
-    font-style: italic;
-  }
-  @font-face {
-    font-family: 'SF Pro Display';
-    src: url('./SFPRODISPLAYTHINITALIC.OTF') format('truetype');
-    font-weight: 300;
-    font-style: italic;
-  }
-  @font-face {
-    font-family: 'SF Pro Display';
-    src: url('./SFPRODISPLAYULTRALIGHTITALIC.OTF') format('truetype');
-    font-weight: 700;
-    font-style: italic;
-  }
+  font-family: "SF Pro Display";
+  src: url("./SF_Pro_400.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("./SF_Pro_600.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+}
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("./SF_Pro_700.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: "SF Pro Display";
+  src: url("./SF_Pro_800.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+}
